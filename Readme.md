@@ -10,9 +10,9 @@ let's jump onto Riddles Game quiz details :
 
 <h3> Library used: </h3>
 
-1.  <a href=“https://www.npmjs.com/package/readline-sync” Readline-Sync>
+1.  <a href=“https://www.npmjs.com/package/readline-sync”> Readline-Sync </a>
 
-2.  <a href=“https://www.npmjs.com/package/chalk” CHALK>
+2.  <a href=“https://www.npmjs.com/package/chalk”> CHALK </a>
 
 <h3> Details about Riddles Quiz Game: <h3>
 
